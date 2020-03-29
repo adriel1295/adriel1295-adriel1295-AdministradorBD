@@ -202,7 +202,7 @@ public class Administracion_Manejo extends javax.swing.JFrame {
 
     private void nuevoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nuevoActionPerformed
         // Crear
-        controladorVehiculo bd= new controladorVehiculo();
+        //controladorVehiculo bd= new controladorVehiculo();
 
         //bd.create();
     }//GEN-LAST:event_nuevoActionPerformed

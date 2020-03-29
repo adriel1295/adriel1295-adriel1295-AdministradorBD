@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package SalidasLLegadas;
 
 /**
@@ -13,19 +7,4 @@ package SalidasLLegadas;
 public class Bitacora {
     
 }
-=======
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package SalidasLLegadas;
 
-/**
- *
- * @author Maria Paula
- */
-public class Bitacora {
-    
-}
->>>>>>> origin/Branch

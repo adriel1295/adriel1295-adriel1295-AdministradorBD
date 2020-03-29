@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Salidad_Llegadas.Controlador;
 
 /**
@@ -13,19 +8,4 @@ package Salidad_Llegadas.Controlador;
 public class Controlador_Bitacora {
     
 }
-=======
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package Salidad_Llegadas.Controlador;
 
-/**
- *
- * @author Dinia Alvarado
- */
-public class Controlador_Bitacora {
-    
-}
->>>>>>> origin/Branch
